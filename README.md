@@ -3,7 +3,7 @@
 ## Informations personnelles
 - **Nom :** Bangura  
 - **Prénom :** Fodé  
-- **Email Vinci :** fodé.bangura@vinci.be  
+- **Email Vinci :** fode.bangura@vinci.be  
 
 ## URL du projet
 https://github.com/fode224/IPL-social
